@@ -517,7 +517,7 @@ and moved into [`crossbeam-queue`][crossbeam-queue].
 [hazards]: https://en.wikipedia.org/wiki/Hazard_pointer
 [michael-scott]: http://www.cs.rochester.edu/~scott/papers/1996_PODC_queues.pdf
 [segqueue-pr]: https://github.com/crossbeam-rs/crossbeam/pull/291
-[bounded-mpmc]: http://www.1024cores.net/home/lock-free-algorithms/queues/bounded-mpmc-queue
+[bounded-mpmc]: https://web.archive.org/web/20251113113210/https://www.1024cores.net/home/lock-free-algorithms/queues/bounded-mpmc-queue
 [linearizability]: https://en.wikipedia.org/wiki/Linearizability
 [opt-channels]: https://github.com/crossbeam-rs/crossbeam/pull/279#issue-241302461
 [diff-gc]: https://github.com/crossbeam-rs/crossbeam/pull/279#issuecomment-450490718
@@ -658,7 +658,7 @@ we might want to explore, but are not essential to the project:
 [servo-ht]: https://github.com/servo/servo/issues/22334
 [hashmap]: https://doc.rust-lang.org/std/collections/struct.HashMap.html
 [chm]: https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/ConcurrentHashMap.html
-[eventcounts]: http://www.1024cores.net/home/lock-free-algorithms/eventcounts
+[eventcounts]: https://web.archive.org/web/20251012143356/http://www.1024cores.net:80/home/lock-free-algorithms/eventcounts
 [semaphore]: https://en.wikipedia.org/wiki/Semaphore_(programming)
 [phaser]: https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/Phaser.html
 [sharded-counters]: https://github.com/golang/go/issues/18802

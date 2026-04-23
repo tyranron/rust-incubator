@@ -154,7 +154,7 @@ After completing everything above, you should be able to answer (and understand 
 [34]: https://blog.logrocket.com/implementing-data-parallelism-rayon-rust
 [35]: https://www.snoyman.com/blog/2024/01/best-worst-deadlock-rust
 [36]: https://ashvardanian.com/posts/beyond-openmp-in-cpp-rust
-[37]: https://www.grayolson.me/blog/posts/misunderstood-memory-ordering
+[37]: https://web.archive.org/web/20251223223826/https://www.grayolson.me/blog/posts/misunderstood-memory-ordering
 [38]: https://blog.cuongle.dev/p/inside-rusts-std-and-parking-lot-mutexes-who-win
 [39]: https://shnatsel.medium.com/the-state-of-simd-in-rust-in-2025-32c263e5f53d
 [40]: https://eventual-consistency.vercel.app/posts/write-locks-faster

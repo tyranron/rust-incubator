@@ -182,7 +182,7 @@ After completing everything above, you should be able to answer (and understand 
 [121]: https://www.twilio.com/docs/openapi/generating-a-rust-client-for-twilios-api
 [122]: https://support.smartbear.com/swaggerhub/docs/tutorials/openapi-3-tutorial.html
 [123]: https://identeco.de/en/blog/generating_and_validating_openapi_docs_in_rust
-[124]: https://www.polydelic.com/media/autogenerating-a-rust-api-to-typescript-and-dart
+[124]: https://web.archive.org/web/20251016064008/https://www.polydelic.com/media/autogenerating-a-rust-api-to-typescript-and-dart
 [125]: https://www.shuttle.rs/blog/2024/04/04/using-openapi-rust
 [200]: https://graphql.org/learn/queries
 [201]: https://graphql.org/learn/schema

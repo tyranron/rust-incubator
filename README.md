@@ -175,7 +175,7 @@ Each step must be performed as a separate [PR (pull request)][PR] with an approp
 [Rust Cookbook]: https://rust-lang-nursery.github.io/rust-cookbook
 [Rust Design Patterns]: https://rust-unofficial.github.io/patterns
 [Rust Edition Guide]: https://doc.rust-lang.org/edition-guide
-[Rust FAQ]: https://prev.rust-lang.org/faq.html
+[Rust FAQ]: https://web.archive.org/web/20201025151758/https://prev.rust-lang.org/en-US/faq.html
 [Rust on Exercism]: https://exercism.org/tracks/rust/exercises
 [Rust Playground]: https://play.rust-lang.org
 [Rust Quiz]: https://github.com/dtolnay/rust-quiz

@@ -57,7 +57,7 @@ _Additional_ articles, which may help to understand the above topic better:
 [Rust]: https://www.rust-lang.org
 [Rust Book]: https://doc.rust-lang.org/book
 [Rust By Example]: https://doc.rust-lang.org/rust-by-example
-[Rust FAQ]: https://prev.rust-lang.org/faq.html
+[Rust FAQ]: https://web.archive.org/web/20201025151758/https://prev.rust-lang.org/en-US/faq.html
 [rustlings]: https://rustlings.cool
 
 [1]: https://chrismorgan.info/blog/rust-ownership-the-hard-way
@@ -67,7 +67,7 @@ _Additional_ articles, which may help to understand the above topic better:
 [5]: https://web.archive.org/web/20220328114028/https://jeffa.io/rust_guide_generics_demystified_part_2
 [6]: https://www.brandons.me/blog/polymorphism-in-rust
 [7]: https://www.tangramvision.com/blog/c-rust-generics-and-specialization#substitution-ordering--failures
-[8]: https://cooscoos.github.io/blog/stress-about-strings
+[8]: https://web.archive.org/web/20251117032322/https://cooscoos.github.io/blog/stress-about-strings
 [9]: https://www.thecodedmessage.com/posts/raii
 [10]: https://geo-ant.github.io/blog/2022/common-cpp-errors-vs-rust
 [11]: https://web.archive.org/web/20230319015854/https://ybnesm.github.io/blah/articles/true-observer-pattern-rust
